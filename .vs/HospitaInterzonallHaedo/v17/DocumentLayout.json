@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\hospital-haedo-parcial\\hospitainterzonallhaedo\\ccontroladora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|solutionrelative:ccontroladora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\hospital-haedo-parcial\\hospitainterzonallhaedo\\chospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|solutionrelative:chospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\hospital-haedo-parcial\\hospitainterzonallhaedo\\cempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|solutionrelative:cempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\hospital-haedo-parcial\\hospitainterzonallhaedo\\csanidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|solutionrelative:csanidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\hospital-haedo-parcial\\hospitainterzonallhaedo\\cservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|solutionrelative:cservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\hospital-haedo-parcial\\hospitainterzonallhaedo\\capoyo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|solutionrelative:capoyo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\hospital-haedo-parcial\\hospitainterzonallhaedo\\cinterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|solutionrelative:cinterfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\hospital-haedo-parcial\\hospitainterzonallhaedo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|solutionrelative:categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|c:\\users\\valentin\\desktop\\utn\\tercer cuatrimestre\\programas iii\\hospital-haedo-parcial\\hospitainterzonallhaedo\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DB94E6-01FC-4242-8B35-BCD0735B2C8F}|HospitaInterzonallHaedo.csproj|solutionrelative:rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CInterfaz.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\CInterfaz.cs",
+              "RelativeDocumentMoniker": "CInterfaz.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\CInterfaz.cs",
+              "RelativeToolTip": "CInterfaz.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvzEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:43:13.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CControladora.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\CControladora.cs",
+              "RelativeDocumentMoniker": "CControladora.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\CControladora.cs",
+              "RelativeToolTip": "CControladora.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAADgv8UAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:46:09.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CHospital.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\CHospital.cs",
+              "RelativeDocumentMoniker": "CHospital.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\CHospital.cs",
+              "RelativeToolTip": "CHospital.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAWwHIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:48:13.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\CServicio.cs",
+              "RelativeDocumentMoniker": "CServicio.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\CServicio.cs",
+              "RelativeToolTip": "CServicio.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAkwGsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:49:57.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\CEmpleado.cs",
+              "RelativeDocumentMoniker": "CEmpleado.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\CEmpleado.cs",
+              "RelativeToolTip": "CEmpleado.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA2wB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:11:13.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CSanidad.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\CSanidad.cs",
+              "RelativeDocumentMoniker": "CSanidad.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\CSanidad.cs",
+              "RelativeToolTip": "CSanidad.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwEcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:25:56.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CApoyo.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\CApoyo.cs",
+              "RelativeDocumentMoniker": "CApoyo.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\CApoyo.cs",
+              "RelativeToolTip": "CApoyo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:46:45.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\Categoria.cs",
+              "RelativeDocumentMoniker": "Categoria.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\Categoria.cs",
+              "RelativeToolTip": "Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:43:26.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\Rol.cs",
+              "RelativeDocumentMoniker": "Rol.cs",
+              "ToolTip": "C:\\Users\\Valentin\\Desktop\\UTN\\TERCER CUATRIMESTRE\\Programas III\\HOSPITAL-HAEDO-PARCIAL\\HospitaInterzonallHaedo\\Rol.cs",
+              "RelativeToolTip": "Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:17:00.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

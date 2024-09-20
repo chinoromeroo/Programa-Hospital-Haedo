@@ -1,0 +1,28 @@
+C:\Users\Valentin\Desktop\HospitaInterzonallHaedo\obj\Debug\net8.0\HospitaInterzonallHaedo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\HospitaInterzonallHaedo\obj\Debug\net8.0\HospitaInterzonallHaedo.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\HospitaInterzonallHaedo\obj\Debug\net8.0\HospitaInterzonallHaedo.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\HospitaInterzonallHaedo\obj\Debug\net8.0\HospitaInterzonallHaedo.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\HospitaInterzonallHaedo\bin\Debug\net8.0\HospitaInterzonallHaedo.exe
+C:\Users\Valentin\Desktop\HospitaInterzonallHaedo\bin\Debug\net8.0\HospitaInterzonallHaedo.deps.json
+C:\Users\Valentin\Desktop\HospitaInterzonallHaedo\bin\Debug\net8.0\HospitaInterzonallHaedo.runtimeconfig.json
+C:\Users\Valentin\Desktop\HospitaInterzonallHaedo\bin\Debug\net8.0\HospitaInterzonallHaedo.dll
+C:\Users\Valentin\Desktop\HospitaInterzonallHaedo\bin\Debug\net8.0\HospitaInterzonallHaedo.pdb
+C:\Users\Valentin\Desktop\HospitaInterzonallHaedo\obj\Debug\net8.0\HospitaInterzonallHaedo.dll
+C:\Users\Valentin\Desktop\HospitaInterzonallHaedo\obj\Debug\net8.0\refint\HospitaInterzonallHaedo.dll
+C:\Users\Valentin\Desktop\HospitaInterzonallHaedo\obj\Debug\net8.0\HospitaInterzonallHaedo.pdb
+C:\Users\Valentin\Desktop\HospitaInterzonallHaedo\obj\Debug\net8.0\HospitaInterzonallHaedo.genruntimeconfig.cache
+C:\Users\Valentin\Desktop\HospitaInterzonallHaedo\obj\Debug\net8.0\ref\HospitaInterzonallHaedo.dll
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\HOSPITAL-HAEDO-PARCIAL\HospitaInterzonallHaedo\bin\Debug\net8.0\HospitaInterzonallHaedo.exe
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\HOSPITAL-HAEDO-PARCIAL\HospitaInterzonallHaedo\bin\Debug\net8.0\HospitaInterzonallHaedo.deps.json
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\HOSPITAL-HAEDO-PARCIAL\HospitaInterzonallHaedo\bin\Debug\net8.0\HospitaInterzonallHaedo.runtimeconfig.json
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\HOSPITAL-HAEDO-PARCIAL\HospitaInterzonallHaedo\bin\Debug\net8.0\HospitaInterzonallHaedo.dll
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\HOSPITAL-HAEDO-PARCIAL\HospitaInterzonallHaedo\bin\Debug\net8.0\HospitaInterzonallHaedo.pdb
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\HOSPITAL-HAEDO-PARCIAL\HospitaInterzonallHaedo\obj\Debug\net8.0\HospitaInterzonallHaedo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\HOSPITAL-HAEDO-PARCIAL\HospitaInterzonallHaedo\obj\Debug\net8.0\HospitaInterzonallHaedo.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\HOSPITAL-HAEDO-PARCIAL\HospitaInterzonallHaedo\obj\Debug\net8.0\HospitaInterzonallHaedo.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\HOSPITAL-HAEDO-PARCIAL\HospitaInterzonallHaedo\obj\Debug\net8.0\HospitaInterzonallHaedo.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\HOSPITAL-HAEDO-PARCIAL\HospitaInterzonallHaedo\obj\Debug\net8.0\HospitaInterzonallHaedo.dll
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\HOSPITAL-HAEDO-PARCIAL\HospitaInterzonallHaedo\obj\Debug\net8.0\refint\HospitaInterzonallHaedo.dll
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\HOSPITAL-HAEDO-PARCIAL\HospitaInterzonallHaedo\obj\Debug\net8.0\HospitaInterzonallHaedo.pdb
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\HOSPITAL-HAEDO-PARCIAL\HospitaInterzonallHaedo\obj\Debug\net8.0\HospitaInterzonallHaedo.genruntimeconfig.cache
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\HOSPITAL-HAEDO-PARCIAL\HospitaInterzonallHaedo\obj\Debug\net8.0\ref\HospitaInterzonallHaedo.dll
